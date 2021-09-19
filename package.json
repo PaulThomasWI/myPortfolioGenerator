@@ -1,0 +1,22 @@
+{
+  "name": "myportfoliogenerator",
+  "version": "1.0.0",
+  "description": "my Portofolio Generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulThomasWI/myPortfolioGenerator.git"
+  },
+  "author": "PaulThomasWI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulThomasWI/myPortfolioGenerator/issues"
+  },
+  "homepage": "https://github.com/PaulThomasWI/myPortfolioGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.5"
+  }
+}
